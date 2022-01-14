@@ -1,0 +1,2 @@
+# power-pridiction
+In this work, mathematical models will be used to predict household electric power consumption. In addition, a comparison will be made as to which models of already established mathematical algorithms perform better in providing sound predictions and which models have better resource usage while reducing latency. The predictions will be performed on both Fog and Cloud environments to compare the memory usage and CPU time of the models on each platform.
